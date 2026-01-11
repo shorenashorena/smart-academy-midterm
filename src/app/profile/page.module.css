@@ -1,0 +1,28 @@
+.card {
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 30px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.name {
+  text-transform: capitalize;
+  margin-bottom: 5px;
+  font-size: 24px;
+}
+
+.info {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+  line-height: 1.8;
+}
+
+.info strong {
+  color: #666;
+  display: flex;
+  align-items: center;
+  width: 70px;
+}
